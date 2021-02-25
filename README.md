@@ -4,37 +4,34 @@
 
 Local: Anapolis - Goias | Idade: 21 anos
 
-Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet
-para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "_user experience_".
+Sou desenvolvedor de software há quase 1 ano.
+Sou apaixonado no que eu faço, e sinto realizado por ter escolhido essa area para trabalhar e viver, não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet
+para me manter atualizado nas novas tecnologias e tendências.
 
-Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em minha empresa [Sook](http://sook.com.br "link")
+Atualmente trabalho na Squadra Tecnologias [Squadra](https://www.squadra.com.br/ "Link").
 
-blog: [http://www.danillocesar.com.br](http://www.danillocesar.com.br "Blog pessoal")  
-twitter: [@danillo](http://twitter.com/danillos "pessoal")  
-github: [https://github.com/danillos](https://github.com/danillos "pessoal") e [https://github.com/sook](https://github.com/sook "empresa")  
-forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
+Linkedin: [https://www.linkedin.com/in/italo-vieira/](https://www.linkedin.com/in/italo-vieira/)  
+github: [https://github.com/italolvv04](https://github.com/italolvv04).
 
 ## Conhecimentos
 
-- PHP (7 anos)
-- Ruby (3 anos)
-- Javascript (3 anos)
-- HTML e CSS (LESS)
-- Sistemas de controle de versão (git, svn)
-- Testes automatizados (bdd, tdd)
+- HTML & CSS
+- Javascript
+- React.js
+- Next.js
+- Sistemas de controle de versão (Git)
 - Desenvolvimento Ágil
-- User experience e design ([alguns trabalhos](http://forrst.me/danillos/posts "forrst"))
-- Segurança e performance web (já prestei pequenas consultorias)
-- Inglês suficiente para ler e entender.
+- .Net Core
+- Domain-Drive Design (DDD)
+- Inglês Básico
 
-## Projetos
+## Experiencia Profissional
 
-### Open Sources
+- Squadra Tecnologias ([link](https://www.squadra.com.br/ "Link")).
+  Analista de Desenvolvimeto / Abril 2020 – Atualmente
 
-- **Drumon Framework** (php) ([link](http://github.com/sook/drumon_framework "github"))
-
-  Framework em PHP para desenvolvimento rápido de aplicações web.
+      Criação e manutenção de sistemas e aplicações.
+      Desnenvolvimento .NET core e React.js.
 
 - **Fire Event** (php) ([link](https://github.com/danillos/fire_event "github"))
 
