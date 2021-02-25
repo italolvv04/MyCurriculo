@@ -1,8 +1,8 @@
-# Danillo César de O. Melo (currículo)
+# Italo Luan Valdivino Vieira (Currículo)
 
-<img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
+<img src="https://secure.gravatar.com/avatar/ee6df04abfde52e1052599a2c3a4887b" />
 
-Local: Maceió - Alagoas | Idade: 25 anos
+Local: Anapolis - Goias | Idade: 21 anos
 
 Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet
