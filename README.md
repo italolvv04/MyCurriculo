@@ -1,17 +1,17 @@
-# Italo Luan Valdivino Vieira (Currículo)
+# :bookmark_tabs: Italo Luan Valdivino Vieira (Currículo) :bookmark_tabs:
 
 <img src="https://secure.gravatar.com/avatar/ee6df04abfde52e1052599a2c3a4887b" />
 
 Local: Anapolis - Goias | Idade: 21 anos
 
 Sou desenvolvedor de software há quase 1 ano.
-Sou apaixonado no que eu faço, e sinto realizado por ter escolhido essa area para trabalhar e viver, não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet
+Sou apaixonado no que eu faço, e sinto realizado por ter escolhido essa area para trabalhar e viver, não me vejo fazendo outra coisa que não esteja relacionado com a tecnologia. Nas horas vagas gosto de navegar na internet
 para me manter atualizado nas novas tecnologias e tendências.
 
 Atualmente trabalho na Squadra Tecnologias [Squadra](https://www.squadra.com.br/ "Link").
 
 Linkedin: [https://www.linkedin.com/in/italo-vieira/](https://www.linkedin.com/in/italo-vieira/)  
-github: [https://github.com/italolvv04](https://github.com/italolvv04).
+Github: [https://github.com/italolvv04](https://github.com/italolvv04).
 
 ## Conhecimentos
 
@@ -43,11 +43,11 @@ github: [https://github.com/italolvv04](https://github.com/italolvv04).
 
       Implatanção e manutenção do sistema, participação na documentação de rotina e acompanhamento do desempenho dos recursos técnicos instalados.
 
-### Proprietários
+### Formação
 
-- **Sook CMS** (Ruby on Rails) ([screenshot](https://github.com/danillos/curriculo/raw/master/images/cms_sook.jpg "foto"))
+- UniEvangelica - Centro Universitário de Anápolis (2018) ([UniEvangelica](https://www4.unievangelica.edu.br/ "Link")).
 
-  Gerenciador de conteúdo escrito em Ruby on Rails que acessa remotamente o banco de dados do cliente.
+        Graduando | Engenharia de Software / 2018 - 2021
 
 ## Outros
 
