@@ -2,7 +2,7 @@
 
 <img src="https://secure.gravatar.com/avatar/ee6df04abfde52e1052599a2c3a4887b" />
 
-Local: Anapolis - Goias | Idade: 21 anos
+:city_sunset: Local: Anapolis - Goias | Idade: 21 anos
 
 Sou desenvolvedor de software há quase 1 ano.
 Sou apaixonado no que eu faço, e sinto realizado por ter escolhido essa area para trabalhar e viver, não me vejo fazendo outra coisa que não esteja relacionado com a tecnologia. Nas horas vagas gosto de navegar na internet
