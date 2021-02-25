@@ -11,8 +11,8 @@ para me manter atualizado nas novas tecnologias e tendências.
 Atualmente trabalho na Squadra Tecnologias [Squadra](https://www.squadra.com.br/ "Link").
 
 :link: Linkedin: [https://www.linkedin.com/in/italo-vieira/](https://www.linkedin.com/in/italo-vieira/)  
-:link: Github: [https://github.com/italolvv04](https://github.com/italolvv04).
-:link Email: italolvv@hotmail.com
+:link: Github: [https://github.com/italolvv04](https://github.com/italolvv04)
+:link: Email: italolvv@hotmail.com
 
 ## Conhecimentos
 
@@ -26,7 +26,7 @@ Atualmente trabalho na Squadra Tecnologias [Squadra](https://www.squadra.com.br/
 - Domain-Drive Design (DDD)
 - Inglês Básico
 
-## Experiencia Profissional
+## Experiência Profissional
 
 - Squadra Tecnologias ([Squadra](https://www.squadra.com.br/ "Link")).
   Analista de Desenvolvimeto / Abril 2020 – Atualmente
