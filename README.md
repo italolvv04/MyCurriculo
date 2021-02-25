@@ -27,25 +27,21 @@ github: [https://github.com/italolvv04](https://github.com/italolvv04).
 
 ## Experiencia Profissional
 
-- Squadra Tecnologias ([link](https://www.squadra.com.br/ "Link")).
+- Squadra Tecnologias ([Squadra](https://www.squadra.com.br/ "Link")).
   Analista de Desenvolvimeto / Abril 2020 – Atualmente
 
       Criação e manutenção de sistemas e aplicações.
       Desnenvolvimento .NET core e React.js.
 
-- **Fire Event** (php) ([link](https://github.com/danillos/fire_event "github"))
+- Prefeitura de Anápolis
+  Estagiário / Outubro 2019 – Novembro 2019
 
-  Event Dispatcher Class em PHP, criado para ser usado no Drumon Framework e foi utilizado pelo anandkunal em seu framework [ToroPHP](https://github.com/anandkunal/ToroPHP "github")
+      Auxilio na rotina, suporte na infraestrutura das unidades de saúde de Anápolis-Go
 
-- **TinyAlert** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tinyalert "link"))
+- Unika Sistemas ([Unika](http://www.unikasistemas.com.br/ "Link")).
+  Analista de Suporte / Novembro 2019 – Abril 2020
 
-  Simples e leve sistema de alerta
-
-- **Tiny Next Select** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tiny-next-select "link"))
-
-  Framework em PHP para desenvolvimento rápido de aplicações web.
-
-- **Outros no github** ([link](https://github.com/danillos "link"))
+      Implatanção e manutenção do sistema, participação na documentação de rotina e acompanhamento do desempenho dos recursos técnicos instalados.
 
 ### Proprietários
 
