@@ -10,8 +10,9 @@ para me manter atualizado nas novas tecnologias e tendências.
 
 Atualmente trabalho na Squadra Tecnologias [Squadra](https://www.squadra.com.br/ "Link").
 
-Linkedin: [https://www.linkedin.com/in/italo-vieira/](https://www.linkedin.com/in/italo-vieira/)  
-Github: [https://github.com/italolvv04](https://github.com/italolvv04).
+:link: Linkedin: [https://www.linkedin.com/in/italo-vieira/](https://www.linkedin.com/in/italo-vieira/)  
+:link: Github: [https://github.com/italolvv04](https://github.com/italolvv04).
+:link Email: italolvv@hotmail.com
 
 ## Conhecimentos
 
@@ -33,7 +34,7 @@ Github: [https://github.com/italolvv04](https://github.com/italolvv04).
       Criação e manutenção de sistemas e aplicações.
       Desnenvolvimento .NET core e React.js.
 
-- Prefeitura de Anápolis
+- Prefeitura de Anápolis ([Prefeitura de Anápolis](http://www.anapolis.go.gov.br/portal/ "Link"))
   Estagiário / Outubro 2019 – Novembro 2019
 
       Auxilio na rotina, suporte na infraestrutura das unidades de saúde de Anápolis-Go
@@ -43,23 +44,13 @@ Github: [https://github.com/italolvv04](https://github.com/italolvv04).
 
       Implatanção e manutenção do sistema, participação na documentação de rotina e acompanhamento do desempenho dos recursos técnicos instalados.
 
-### Formação
+### :mortar_board: Formação
 
 - UniEvangelica - Centro Universitário de Anápolis (2018) ([UniEvangelica](https://www4.unievangelica.edu.br/ "Link")).
 
         Graduando | Engenharia de Software / 2018 - 2021
 
-## Outros
-
-- Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
--
-
-## Formação
-
-- Graduado em Sistemas de Informação pela (FAL)
-- Pós em Tecnologias Web para negócios (FEJAL)
-
 ---
 
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](https://github.com/inbox/new/danillos "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+Me envie uma mensagem no Linkedin ou um e-mail e ajude-me a melhora-lo.
